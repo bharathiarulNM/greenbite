@@ -65,7 +65,7 @@ function Navbar() {
           </div>
           <img
             className="sidebarimg m-2 my-2"
-            src="src\assets\sidebarlogo.png"
+            src="/sidebarlogo.png"
             alt="pic"
           />{" "}
         </div>
